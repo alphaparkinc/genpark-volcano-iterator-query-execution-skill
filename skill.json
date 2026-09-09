@@ -1,0 +1,13 @@
+{
+  "name": "genpark-volcano-iterator-query-execution-skill",
+  "version": "1.0.0",
+  "description": "Volcano and Iterator model query execution engine with streaming open-next-close pipelining, HashJoin, Filter, and Group-By Aggregations.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "query-engine",
+    "volcano-iterator",
+    "database-internals",
+    "hash-join"
+  ]
+}
